@@ -23,26 +23,26 @@
   ],
   
   "delivery": [
-    {"id": 1,"name": "KFC"} ,
+    {"id": 1,"name": "KFC" ,"inf":"KFC", "url":"https://total.kz/storage/62/621218ab193900b98584ae37b4d1ed16_resize_w_830_h_465.jpg"} ,
     
-    {"id": 2,"name": "Burger King"},
+    {"id": 2,"name": "Burger King", "inf":"Burger King", "url":"https://sxodim.com/uploads/astana/2016/06/burger-king.jpg"},
   
-    {"id": 3, "name": "Salam Bro"},
+    {"id": 3, "name": "Salam Bro","inf":"Salam Bro", "url":"https://restolife.kz/upload/information_system_6/2/3/1/item_23199/information_items_property_27833.jpg"},
     
-    {"id": 4,"name": "McDonalds"},
+    {"id": 4,"name": "McDonalds", "inf":"McDonalds", "url":"https://foodindustry.kz/wp-content/uploads/2020/06/McDonalds.jpg"},
    
-    { "id": 5, "name": "Rumi"},
+    { "id": 5, "name": "Rumi", "inf":"Rumi" , "url":"https://voxpopuli.kz/wp-content/uploads/img/article/128/52_main.jpg.webp"},
     
-    {"id": 6, "name": "Hardee's"},
+    {"id": 6, "name": "Hardee's", "inf":"Hardee's", "url": "https://avatars.mds.yandex.net/get-altay/2383444/2a00000170e229e9957f2e0b21154655295b/XXL"},
      
     
-    { "id": 7,"name": "Zomato"},
+    { "id": 7,"name": "Zomato", "inf":"Zomato", "url":"https://woxapp.com/uploads/images/zomato_1.jpg"},
     
-    {"id": 8,"name": "Subway"},
+    {"id": 8,"name": "Subway", "inf":"Subway", "url":"https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190501132028-subway-restaurant-restricted.jpg"},
     
-    {"id": 9,"name": "Dodo Pizza"},
+    {"id": 9,"name": "Dodo Pizza", "inf":"Dodo Pizza", "url":"https://media-cdn.tripadvisor.com/media/photo-s/17/9f/65/1e/pizza-restaurant-and.jpg"},
      
-    {"id": 10,"name": "Domino's Pizza"}
+    {"id": 10,"name": "Domino's Pizza", "inf":"Domino's Pizza" , "url":"http://retail-loyalty.org/upload/iblock/8ef/NINTCHDBPICT000468838347_1.jpg"}
      
     
    
