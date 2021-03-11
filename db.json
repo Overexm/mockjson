@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "get": [
     {"id": 1,"email": "kamila0907@gmail.com","password": "Kami123$"},
     
     {"id": 2,"email": "merey08@gmail.com","password": "Merey457#"},
@@ -21,6 +21,13 @@
     { "id": 10,"email": "Kamikami3@gmail.com","password": "Coolgirl89$"}
     
   ],
+  "posts": [
+    {"username":"Overexm","email": "kamila0907@gmail.com","password": "Kami123$","passwordc": "Kami123$"},
+    
+   {"username":"Bibi","email": "bib055@gmail.com","password": "Biscdd2d$","passwordc": "Biscdd2d$"}
+    
+    ],
+  
   "delivery": [
     {"id": 1,"name": "KFC"} ,
     
